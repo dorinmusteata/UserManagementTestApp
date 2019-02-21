@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e59d967f-9973-4b54-9e3f-e4838b3d6166" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/front_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_app/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_app/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/front_app/src/views/Home.vue" afterDir="false" />
-    </list>
+    <list default="true" id="e59d967f-9973-4b54-9e3f-e4838b3d6166" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +12,13 @@
     <pharConfigPath>$PROJECT_DIR$/back_app/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/back_app/composer.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -35,7 +33,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front_app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,11 +271,15 @@
               <item name="database" type="462c0819:PsiDirectoryNode" />
               <item name="seeds" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="EBS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EBS" type="462c0819:PsiDirectoryNode" />
+              <item name="front_app" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,17 +316,18 @@
       <workItem from="1550671045186" duration="15810000" />
       <workItem from="1550696759034" duration="7189000" />
       <workItem from="1550741338226" duration="19863000" />
+      <workItem from="1550764796127" duration="637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42862000" />
+    <option name="totallyTimeSpent" value="43499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21268657" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21481876" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -436,13 +440,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/back_app/apidoc/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/back_app/apidoc/index.html" />
     <entry file="file://$PROJECT_DIR$/back_app/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -698,6 +696,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back_app/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
