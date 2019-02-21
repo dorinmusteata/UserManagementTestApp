@@ -5,6 +5,13 @@ A Full-Stack Web Application, which was created after receiving a test from a co
 
 git clone https://github.com/dorinmusteata/UserManagementTestApp app
 
+### Features
+
+* User groups & permissions system
+* apiDoc
+* PHP 7.1.*
+* REST API with JWT Auth
+
 ### Backend (Laravel 5.7)
 
 * Create .env from .env.example file and set the database connection credentials
