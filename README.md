@@ -7,7 +7,7 @@ git clone https://github.com/dorinmusteata/UserManagementTestApp app
 
 ### Backend (Laravel 5.7)
 
-1. *cd app*
+1. *cd app , cd back_app*
 2. *composer install*
 3. *php artisan migrate*
 4. *php artisan db:seed*
@@ -19,6 +19,7 @@ git clone https://github.com/dorinmusteata/UserManagementTestApp app
 
 ### Frontend (Vue.js + Vuex)
 
-1. *npm install*
-2. *npm run serve*
-3. *http://localhost:8080/#/*
+1. *cd front_app*
+2. *npm install*
+3. *npm run serve*
+4. *http://localhost:8080/#/*
