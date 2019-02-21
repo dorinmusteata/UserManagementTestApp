@@ -7,6 +7,8 @@ git clone https://github.com/dorinmusteata/UserManagementTestApp app
 
 ### Backend (Laravel 5.7)
 
+* Create .env from .env.example file and set the database connection credentials
+
 1. *cd app , cd back_app*
 2. *composer install*
 3. *php artisan migrate*
