@@ -11,9 +11,9 @@ git clone https://github.com/dorinmusteata/UserManagementTestApp app
 2. *composer install*
 3. *php artisan migrate*
 4. *php artisan db:seed*
-5. *php artisan serve*
-6. *php artisan key:generate*
-7. *php artisan jwt:secret*
+5. *php artisan key:generate*
+6. *php artisan jwt:secret*
+7. *php artisan serve*
 8. *http://localhost:8000/api/ - API ENDPOINT BASE*
 9. *http://localhost:8080/apidoc/ - APIDOC*
 
