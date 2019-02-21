@@ -17,7 +17,7 @@ git clone https://github.com/dorinmusteata/UserManagementTestApp app
 6. *php artisan jwt:secret*
 7. *php artisan serve*
 8. *http://localhost:8000/api/ - API ENDPOINT BASE*
-9. *http://localhost:8080/apidoc/ - APIDOC*
+9. *http://localhost:8000/apidoc/ - APIDOC*
 
 ### Frontend (Vue.js + Vuex)
 
