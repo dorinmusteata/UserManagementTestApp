@@ -26,6 +26,8 @@ git clone https://github.com/dorinmusteata/UserManagementTestApp app
 8. *http://localhost:8000/api/ - API ENDPOINT BASE*
 9. *http://localhost:8000/apidoc/ - APIDOC*
 
+** Default user: tester@mail.com|tester
+
 ### Frontend (Vue.js + Vuex)
 
 1. *cd front_app*
