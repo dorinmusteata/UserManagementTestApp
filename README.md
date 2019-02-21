@@ -5,7 +5,7 @@ A Full-Stack Web Application, which was created after receiving a test from a co
 
 git clone https://github.com/dorinmusteata/UserManagementTestApp app
 
-### Backend (Laravel)
+### Backend (Laravel 5.7)
 
 1. *cd app*
 2. *composer install*
